@@ -13,6 +13,6 @@ func main(){
 
 [github](http://github.com)
 
-[My pdf file](./pdf/pdf.pdf)
+[My pdf file](../pdf/pdf.pdf)
 
 ![this is image](./images/image1.png)
