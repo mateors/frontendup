@@ -7,3 +7,7 @@
 ### I have created a simple portfolio project using basic HTML, CSS. 
 
 [Click to see my practice](https://tirahman105.github.io/frontend_p1/)
+
+## I have practiced Bootstrap and created this webpage. 
+
+[Click to see my bootstrap practice](https://tirahman105.github.io/frontend_p2/)
