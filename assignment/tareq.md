@@ -20,3 +20,9 @@
 ## Header practice 
 
 [Click to see my bootstrap practice](https://tirahman105.github.io/frontend_practice_p3_header/)
+
+## New Header practice
+
+[Apple](https://tirahman105.github.io/frontend_p4_apple/)
+
+[Golang](https://tirahman105.github.io/frontend_p5_go/)
