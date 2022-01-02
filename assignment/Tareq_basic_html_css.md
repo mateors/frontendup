@@ -62,3 +62,66 @@ press করেও এটি open করা যায়।
 
 ![tree5](tareq_images/tree-5.JPG)
 
+#
+#
+##  HTLM, CSS , DOM 
+
+#
+
+## HTML
+#
+### HTML web এর একটি language. এর স্পেসিফিক একটা  syntax ও rules আছে।
+
+HTML এর বেসিক ওয়ার্ড হলো tag. Browser HTML tag কে eliment এ পরিনত করে যেটা tree তৈরি করে। 
+
+It know how to do that because of the DOM. DOM (Document Object Module) is a standard convension for representing and interacting with eliments in HTML. 
+
+আমরা developer tool এ যে tree দেখেছি সেটা আসলে DOM tree. Browser HTML document থেকে।  এই DOM tree তৈরি করে।
+
+প্রতিটা HTML tag DOM এ একটা eliment তৈরি করে যার মাধ্যমে browser page কে display করে। 
+#
+* Element কীভাবে তৈরি হয়?
+
+* Element শুরু হয় starting tag দিয়ে ও শেষ হয় ending tag দিয়ে। এর মাঝে যা থাকে সব কিছুই content. এটা হতে পারে empty, text বা অন্য কোনো element. 
+
+![tag](tareq_images/tag.JPG)
+![element](tareq_images/html_element.png)
+
+
+প্রতিটা tag এর একটা name or type আছে যেটার মাধ্যমে বোঝা যায় কি ধরনের element তৈরি হবে। 
+
+যেমনঃ paragraph এর জন্য p tag, image এর জন্য img tag ইত্যাদি। 
+
+কোনো tag এর attribute ও value থাকতে পারে। যেমনঃ 
+
+
+![attribute](tareq_images/attribute.png)
+
+
+* HTML element সম্পর্কে আরো জানতে আমরা 
+[এই লিংকে ](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) দেখতে পারি। 
+
+# 
+#
+# # CSS 
+# 
+CSS এর পুর্ণ রুপ Cascading Style Sheets।
+
+কোনো element দেখতে কেমন হবে সেটার জন্য আমরা css ব্যবহার করি। 
+যেমনঃ font এর size, color, background, border, position etc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
