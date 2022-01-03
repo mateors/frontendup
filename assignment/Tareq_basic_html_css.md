@@ -115,13 +115,13 @@ CSS এর পুর্ণ রুপ Cascading Style Sheets।
 
 আমরা কোনো Webpage কে inspect করলে দেখতে পারবো সবকিছুই আসলে একটা বক্সের মধ্যে আছে। এমনকি element টা যদি circle কিছুও হয় সেটা একটা বক্সের মত জায়গা নিয়েছে। 
 
-![box](tareq_images/box.jpg)
+![box](tareq_images/box.JPG)
 
 Webpage এ আমরা যা দেখি সবকিছুই কোনো বক্সে আছে। html এ box এর জন্য আমরা div tag use করি। 
 
 নিচের ছবিতে এ সম্পর্কে একটা ধারনা দেয়া হয়েছে। 
 
-![box](tareq_images/box_html.jpg)
+![box](tareq_images/box_html.JPG)
 
 # 
 এই বক্সকে style করার জন্য class attribute ইউজ করা হয় এবং প্রতিটা div কে আলাদা আলাদা class name দেয়া হয়। 
@@ -155,15 +155,15 @@ css দিয়ে ডিজাইন করার জন্য প্রথমে
 ### আমরা [এই website](https://validator.w3.org/) থেকে আমাদের html, css validation করতে পারি। আমাদের কোডে কোনো ভুল থাকলে সেটা দেখা যাবে। 
 
 
-![validator](tareq_images/validator.jpg)
+![validator](tareq_images/validator.JPG)
 #
 ### css grid system
 
 grid system এ সম্পূর্ন row কে ১২টা column এ ভাগ করা হয়। 
 
-![grid](tareq_images/grid.jpg)
+![grid](tareq_images/grid.JPG)
 
-![grid_2](tareq_images/grid_2.jpg)
+![grid_2](tareq_images/grid_2.JPG)
 
 #
 Margin , padding 
@@ -175,13 +175,13 @@ Margin , padding
 
 Media query এর মাধ্যমে responsive design করা যায়। 
 
-![margin, padding](tareq_images/media_q.jpg)
+![margin, padding](tareq_images/media_q.JPG)
 
 উপরের কোডে আমরা দেখতে পাচ্ছি max-width: 300px লেখা। এখানে p এর ব্যাকগ্রাউন্ড কালার blue. 
 
 যখন 300 px এর নিচে স্ক্রিন সাইজ থাকবে তখন background color blue হবে। 
 
-![margin, padding](tareq_images/media_q_2.jpg)
+![margin, padding](tareq_images/media_q_2.JPG)
 #
 ### Normalize CSS
 ??
