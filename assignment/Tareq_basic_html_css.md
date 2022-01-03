@@ -139,13 +139,13 @@ css দিয়ে ডিজাইন করার জন্য প্রথমে
  display : flex;
  ```
 
- ![display](tareq_images/css_display.jpg)
+ ![display](tareq_images/css_display.JPG)
 
- ![display flex](tareq_images/css_display_flex.jpg)
+ ![display flex](tareq_images/css_display_flex.JPG)
 
 আমরা developer tool এর সাহায্যে চাইলে css style change করে দেখতে পারি। 
 
-![style](tareq_images/style.jpg)
+![style](tareq_images/style.JPG)
 
 #
 ## Validating and Verifying HTML and CSS
