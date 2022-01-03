@@ -110,6 +110,131 @@ CSS এর পুর্ণ রুপ Cascading Style Sheets।
 কোনো element দেখতে কেমন হবে সেটার জন্য আমরা css ব্যবহার করি। 
 যেমনঃ font এর size, color, background, border, position etc. 
 
+#
+## Everything is Box.
+
+আমরা কোনো Webpage কে inspect করলে দেখতে পারবো সবকিছুই আসলে একটা বক্সের মধ্যে আছে। এমনকি element টা যদি circle কিছুও হয় সেটা একটা বক্সের মত জায়গা নিয়েছে। 
+
+![box](tareq_images/box.jpg)
+
+Webpage এ আমরা যা দেখি সবকিছুই কোনো বক্সে আছে। html এ box এর জন্য আমরা div tag use করি। 
+
+নিচের ছবিতে এ সম্পর্কে একটা ধারনা দেয়া হয়েছে। 
+
+![box](tareq_images/box_html.jpg)
+
+# 
+এই বক্সকে style করার জন্য class attribute ইউজ করা হয় এবং প্রতিটা div কে আলাদা আলাদা class name দেয়া হয়। 
+
+css দিয়ে ডিজাইন করার জন্য প্রথমে সিলেক্টর উল্লেখ করতে হয় তারপর property ও value দিতে হবে। 
+নিচের ছবিতে h1 tag কে সিলেক্টর করা হয়েছে। color ও font size হলো property যাদের value দেয়া আছে। 
+![box](tareq_images/css_selector.png)
+
+[See more about css](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+#
+
+### কিভাবে দুটো বক্সকে পাশাপাশি ডিস্প্লে করা হয়? 
+```css
+ display : flex;
+ ```
+
+ ![display](tareq_images/css_display.jpg)
+
+ ![display flex](tareq_images/css_display_flex.jpg)
+
+আমরা developer tool এর সাহায্যে চাইলে css style change করে দেখতে পারি। 
+
+![style](tareq_images/style.jpg)
+
+#
+## Validating and Verifying HTML and CSS
+
+[validator.w3.org](https://validator.w3.org/) 
+
+### আমরা [এই website](https://validator.w3.org/) থেকে আমাদের html, css validation করতে পারি। আমাদের কোডে কোনো ভুল থাকলে সেটা দেখা যাবে। 
+
+
+![validator](tareq_images/validator.jpg)
+#
+### css grid system
+
+grid system এ সম্পূর্ন row কে ১২টা column এ ভাগ করা হয়। 
+
+![grid](tareq_images/grid.jpg)
+
+![grid_2](tareq_images/grid_2.jpg)
+
+#
+Margin , padding 
+
+![margin, padding](tareq_images/margin_padding.png)
+#
+## Media Query 
+#
+
+Media query এর মাধ্যমে responsive design করা যায়। 
+
+![margin, padding](tareq_images/media_q.jpg)
+
+উপরের কোডে আমরা দেখতে পাচ্ছি max-width: 300px লেখা। এখানে p এর ব্যাকগ্রাউন্ড কালার blue. 
+
+যখন 300 px এর নিচে স্ক্রিন সাইজ থাকবে তখন background color blue হবে। 
+
+![margin, padding](tareq_images/media_q_2.jpg)
+#
+### Normalize CSS
+??
+
+![normalize css](tareq_images/normalize_css.JPG)
+
+
+# 
+## How to use google font ??
+আমরা google font থেকে যেকোনো ফন্ট ব্যবহার করতে পারি। 
+
+[https://fonts.google.com/](https://fonts.google.com/)
+
+গুগল ফন্টের ওয়েবসাইট থেকে পছন্দের ফন্ট সিলেক্ট করে সেই লিংক html এর head tag এর ভিতর add করে দিতে হয় ও css file এ সেটা mention করে দিতে হয়। 
+
+![google font](tareq_images/gfont.JPG)
+
+![google font](tareq_images/gfont_2.JPG)
+
+![google font](tareq_images/gfont_3.JPG)
+
+
+#
+# Bootstrap
+
+### Website : [https://getbootstrap.com/](https://getbootstrap.com/)
+
+![bootstrap](tareq_images/bootstrap.JPG)
+
+Bootstrap একটি framework যার সাহায্যে খুব সহজেই ওয়েবপেজ তৈরি করা যায়। 
+
+Bootstrap এর grid system টা বোঝা জরুরী। 
+
+Grid system
+* Bootstrap includes a responsive, mobile first fluid grid system that appropriately scales up to 12 columns as the device or viewport size increases. 
+* It includes predefined classes for easy layout options
+
+For Details documentation 
+[see here](https://getbootstrap.com/docs/3.4/css/)
+HTML, CSS ও Bootstrap use করে আমি কিছু ডিজাইন করেছি। 
+* [Portfolio](https://tirahman105.github.io/frontend_p1/)
+* [The Band](https://tirahman105.github.io/the_band/)
+ * [Biology](https://tirahman105.github.io/biology/)
+
+ * [Utopic Flower](https://tirahman105.github.io/basic_template_practice)
+
+ * [BR Architech](https://tirahman105.github.io/BR_architects/)
+
+ * [Tahin's Kitchen](https://tirahman105.github.io/tahins_kitchen/)
+
+
+
+
 
 
 
