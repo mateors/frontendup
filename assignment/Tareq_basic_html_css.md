@@ -219,7 +219,7 @@ Grid system
 * Bootstrap includes a responsive, mobile first fluid grid system that appropriately scales up to 12 columns as the device or viewport size increases. 
 * It includes predefined classes for easy layout options
 
-For Details documentation 
+For Details documentation ,
 [see here](https://getbootstrap.com/docs/3.4/css/)
 HTML, CSS ও Bootstrap use করে আমি কিছু ডিজাইন করেছি। 
 * [Portfolio](https://tirahman105.github.io/frontend_p1/)
